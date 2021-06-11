@@ -1,0 +1,30 @@
+.nav__container--logo {
+    margin-left: 50px;
+}
+.nav__container .icon__menu {
+    margin-right: 50px;
+}
+.section1__content-right img {
+    height: 400px;
+}
+footer {
+    display: flex;
+    width: 100%;
+    padding-bottom: 15px;
+}
+.contact-me {
+    width: 60%;
+}
+.footer {
+    flex-flow: column;
+    width: 40%;
+}
+.footer-left a {
+    font-size: 1.7rem;
+}
+.footer-right img {
+    width: 300px;
+    height: 250px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
